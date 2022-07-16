@@ -7,9 +7,9 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id="myFirstBean"
-          class="ru.laskarev.springApps.MyFirstBean">
-        <constructor-arg value="Learning Spring Framework"/>
+    <bean id="Library"
+          class="ru.laskarev.springApps.Library">
+        <constructor-arg value="Polytech University Library"/>
     </bean>
 
 </beans>
