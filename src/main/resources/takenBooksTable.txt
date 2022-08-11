@@ -1,2 +1,0 @@
-Student:Laskarev:asd@email:'Tolstoy. War and Peace'; 'Irodov. Physics problems'
-PayedClient:Fedotov@1000:asd@email: 'Pelevin. Generation P';'Tolstoy. War and Peace'; 'Irodov. Physics problems'
